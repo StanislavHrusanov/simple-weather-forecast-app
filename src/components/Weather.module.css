@@ -65,7 +65,7 @@
 }
 
 .humidity span,
-.wind span{
-    font-size: 1rem;
-    text-transform: lowercase;
+.wind span {
+  font-size: 1rem;
+  text-transform: lowercase;
 }
