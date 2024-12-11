@@ -1,0 +1,19 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 2rem 0rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-container h1 {
+  margin-bottom: 1.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.home-container p {
+  margin-bottom: 1.25rem;
+  font-size: 1.2rem;
+}

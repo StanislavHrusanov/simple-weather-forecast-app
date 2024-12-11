@@ -1,7 +1,12 @@
-import "./App.css";
+import styles from "./App.module.css";
+import HomePage from "./components/Home";
 
 function App() {
-  return <></>;
+  return (
+    <main className={styles.main}>
+      <HomePage />
+    </main>
+  );
 }
 
 export default App;
